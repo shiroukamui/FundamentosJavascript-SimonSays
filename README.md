@@ -13,7 +13,7 @@ Proyecto final. Juego Simon Says
 
 ## Herramientas
 
-- [Sweetalert](https://unpkg.com/sweetalert/dist/sweetalert.min.js)
+- [Sweetalert](https://sweetalert.js.org/)
 
 ## Ejecutalo
 
