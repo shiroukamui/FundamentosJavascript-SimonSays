@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    background: #333333;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+
+.gameboard {
+    height: 100vh;
+    width: 100vh;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-left: 500px;
+    max-height: 60vh;
+    max-width: 60vh;
+}
+
+.color {
+    width: 50%;
+    height: 50%;
+    display: inline-block;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: left;
+}
+
+.celeste {
+    background: #22a6b3;
+}
+
+.celeste.light {
+    background: #7ed6df;
+}
+
+.violeta {
+    background: #be2edd;
+}
+
+.violeta.light {
+    background: #e056fd;
+}
+
+.naranja {
+    background: #f0932b;
+}
+
+.naranja.light {
+    background: #ffbe76;
+}
+
+.verde {
+    background: #6ab04c;
+}
+
+.verde.light {
+    background: #badc58;
+}
+
+.btn-start {
+    width: 250px;
+    height: 100px;
+    background: #4d4e4e;
+    color: #e0e2e4;
+    border: 2px solid #ecf0f1;
+    font-size: 2.5rem;
+    position: absolute;
+    top: calc(50% - 50px);
+    left: calc(50% - 130px);
+}
+
+.hide {
+    display: none;
+}
+
+.tituloNivel {
+    margin: 0 590;
+    font-size: 35;
+    font-style: italic;
+    color: #c2c2c2;
+    text-align: justify;
+}
