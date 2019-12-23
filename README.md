@@ -15,6 +15,6 @@ Proyecto final. Juego Simon Says
 
 - [Sweetalert](https://unpkg.com/sweetalert/dist/sweetalert.min.js)
 
-## Run it
+## Ejecutalo
 
 - [SimonSays](https://shiroukamui.github.io/FundamentosJavascript-SimonSays/)
