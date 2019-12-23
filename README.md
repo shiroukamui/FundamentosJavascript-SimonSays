@@ -17,4 +17,4 @@ Proyecto final. Juego Simon Says
 
 ## Run it
 
-[SimonSays](https://shiroukamui.github.io/FundamentosJavascript-SimonSays/)
+- [SimonSays](https://shiroukamui.github.io/FundamentosJavascript-SimonSays/)
